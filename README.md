@@ -4,11 +4,12 @@ This project implements a fuzzy logic-based irrigation system designed to optimi
 ## Prerequisites
 Before running the project, ensure you have the following Python libraries installed:
 <ol>
-  <li>**NumPy**: For numerical operations.</li>
-  <li>**Matplotlib**: For plotting graphs and visualizations.</li>
-  <li>**scikit-fuzzy**: For fuzzy logic computations.</li>
+  <li>  **NumPy:** For numerical operations.</li>
+  <li>  **Matplotlib:** For plotting graphs and visualizations.</li>
+  <li>  **scikit-fuzzy:** For fuzzy logic computations.</li>
 </ol>
 You can install these libraries using `pip`. Open your terminal or command prompt and run the following command:
+
 ```
 pip install numpy matplotlib scikit-fuzzy
 ```
