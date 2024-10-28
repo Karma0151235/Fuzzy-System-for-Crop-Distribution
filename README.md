@@ -8,7 +8,8 @@ Before running the project, ensure you have the following Python libraries insta
   <li>  <b>Matplotlib:</b> For plotting graphs and visualizations.</li>
   <li>  <b>scikit-fuzzy:</b> For fuzzy logic computations.</li>
 </ol>
-You can install these libraries using `pip` . Open your terminal or command prompt and run the following command:
+
+You can install these libraries using `pip`. Open your terminal or command prompt and run the following command:
 
 ```
 pip install numpy matplotlib scikit-fuzzy
